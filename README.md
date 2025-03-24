@@ -6,6 +6,8 @@
 ```pip install openpyxl pillow```
 
 # 示例
-![wallhaven-k9ymm1](https://github.com/user-attachments/assets/e8c99d33-2062-4105-90dc-b3b57f2f895c)
+![image](https://github.com/user-attachments/assets/76d6ad6c-92cc-4008-85cd-475d053a5093)
+
 效果：
-![A717C288D181CDF34F61A7FE8353240C](https://github.com/user-attachments/assets/6bd433c0-7f80-43e2-a88f-3808132e64a5)
+![image](https://github.com/user-attachments/assets/47ec2c12-52e1-40bb-a915-c0b63facdd75)
+
