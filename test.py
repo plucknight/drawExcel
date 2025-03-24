@@ -8,7 +8,7 @@ def image_to_excel(
     image_path,
     output_file=None,
     max_columns=100,  # 限制最大列数（防止Excel卡死）
-    cell_width_ratio=0.562  # Excel默认单元格宽高比（列宽8.43pt / 行高15pt ≈ 0.562）
+    cell_width_ratio=0.3  # Excel默认单元格宽高比
 ):
     # 自动生成输出文件名
     if output_file is None:
